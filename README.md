@@ -2,14 +2,14 @@
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=165&section=header&text=realwhyjay&fontSize=100)
 
-<h2 align="center"> Hello!👋 I'm YoungJae Choi</h2>
+<h1 align="center"> Hello!👋 I'm YoungJae Choi</h1>
 <p align="center">
 Growing Developer☄️ <br>
 majoring in Philosophy📚 && Software Engineering💻<br>
 
 </p>
 
-<h2 align="center"> ✨Tech Stack & Skills✨</h2>
+<h3 align="center"> ✨Tech Stack & Skills✨</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
