@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=165&section=header&text=realwhyjay&fontSize=100)
 
-<h1 align="center"> Hello!👋 I'm YoungJae Choi</h1>
+<h3 align="center"> Hello!👋 I'm YoungJae Choi</h3>
 
 <p align="center">
 Growing Developer☄️ <br>
