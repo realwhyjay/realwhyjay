@@ -6,7 +6,7 @@
 
 <p align="center">
 Growing Developer☄️ <br>
-majoring in Philosophy📚 && Software Engineering💻<br>
+Majoring in Philosophy📚 && Software Engineering💻<br>
 
 </p>
 
