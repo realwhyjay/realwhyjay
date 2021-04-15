@@ -1,6 +1,7 @@
 
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=165&section=header&text=realwhyjay&fontSize=100)
+<br>
 
 <h3 align="center"> Hello!👋 I'm YoungJae Choi</h3>
 
@@ -37,6 +38,7 @@ Majoring in Philosophy📚 && Software Engineering💻<br>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a> 
+<br>
 <br>
 
 </p>
