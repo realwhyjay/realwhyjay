@@ -43,4 +43,4 @@ Majoring in Philosophy📚 && Software Engineering💻<br>
 
 </p>
 
-![footer](https://capsule-render.vercel.app/api?type=slice&color=auto&height=130&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=130&section=footer)
