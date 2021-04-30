@@ -1,6 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=165&section=header&text=realwhyjay&fontSize=100&animation=twinkling&fontcolor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=165&section=header&text=realwhyjay&fontSize=100&animation=twinkling&fontcolor=#ffffff)
 <br>
 
 <h3 align="center"> Hello!👋<br> I'm YoungJae Choi</h3>
