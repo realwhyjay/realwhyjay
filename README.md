@@ -30,7 +30,9 @@ Majoring in Philosophy📚 && Software Engineering💻<br>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>
 <br>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> 
+
 
 </p>
 
@@ -38,7 +40,7 @@ Majoring in Philosophy📚 && Software Engineering💻<br>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a> 
 
