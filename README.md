@@ -32,16 +32,17 @@ Majoring in Philosophy📚 && Software Engineering💻<br>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>
-
-</p>
-
-<h4 align="center"> 🌱Now I'm Learning... 🌱</h3>
-
-<p align="center">
+<br>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a> 
+</p>
+
+<!--h4 align="center"> 🌱Now I'm Learning... 🌱</h3-->
+
+<p align="center">
+
 
 <br>
 
