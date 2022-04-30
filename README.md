@@ -5,11 +5,13 @@
 
 <h3 align="center"> Hello!👋<br> I'm YoungJae Choi</h3>
 
+
 <p align="center">
 Growing Developer☄️ <br>
 Majoring in Philosophy📚 && Software Engineering💻<br>
 
 </p>
+
 
 <h3 align="center"> ✨Tech Stack & Skills✨</h3>
 
