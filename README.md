@@ -49,7 +49,7 @@ Majoring in Philosophy📚 && Software Engineering💻<br>
 <br>
 
 <br>
-<br>
+
 
 </p>
 
