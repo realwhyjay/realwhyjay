@@ -51,7 +51,7 @@ Majoring in Philosophy📚 && Software Engineering💻<br>
 
 
 </p>
-![](https://komarev.com/ghpvc/?username=realwhyjay&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=realwhyjay)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=130&section=footer&style=flat)
 
