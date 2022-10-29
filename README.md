@@ -7,7 +7,7 @@
 
 
 <p align="center">
-Growing Developer☄️ <br>
+Backend Developer☄️ <br>
 Majoring in Philosophy📚 && Software Engineering💻<br>
 
 </p>
