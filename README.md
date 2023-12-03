@@ -3,56 +3,41 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=165&section=header&text=realwhyjay&fontSize=100&animation=twinkling&fontcolor=#ffffff)
 <br>
 
-<h3 align="center"> Hello!👋<br> I'm YoungJae Choi</h3>
+# Hello!👋 I'm YoungJae Choi
+- 💻 Mainly developing backend services using `Typescript`, `NestJS`, and `AWS`.
+- 🫡 Developer who loves the process more than the result
+- 📚 Majoring in Philosophy and Software Engineering
 
-
+## 📬 Contact
 <p align="center">
-Backend Developer☄️ <br>
-Majoring in Philosophy📚 && Software Engineering💻<br>
+  
+<a href="https://www.linkedin.com/in/%EC%98%81%EC%9E%AC-%EC%B5%9C-295996208/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:realwhyjay@pairy.co"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 
-</p>
+</p> 
 
+## ⚙️ Tech Stack
 
-<h3 align="center"> ✨Tech Stack & Skills✨</h3>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/Xcode-1575F9?style=flat-square&logo=Xcode&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a> 
-<br>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
-<br>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/nestjs-E0234E?style=flat-square&logo=nestjs&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/></a> 
-<br>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a> 
+
+
+## ✨ Work Experience
+- **Pairy** Backend Developer `(2021.12 ~ NOW)`
+
+
+## 🚀 Activity
+- 대학생 연합동아리 [SOPT](https://www.sopt.org/) 28, 29th Server 파트 수료
+- 대학생 연합동아리 [SOPT](https://www.sopt.org/) 26, 27th iOS 파트 수료
+
+## 🕹️ Project
+- 미리 맞이 해보는 당신의 이른 죽음, [아포피스](https://apps.apple.com/kr/app/%EC%95%84%ED%8F%AC%ED%94%BC%EC%8A%A4/id1591044927)
+- 나와 함께한 당신이 대신 써 주는 나의 소개서, [너가소개서](https://www.neogasogaeseo.com/)
+
 <br>
-<img src="https://img.shields.io/badge/Git-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>
-</p>
 
-<!--h4 align="center"> 🌱Now I'm Learning... 🌱</h3-->
-
-<p align="center">
-
-
-<br>
-<br>
-
-
-</p>
-
-<!--![](https://komarev.com/ghpvc/?username=realwhyjay&color=blueviolet&style=flat)-->
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=130&section=footer&style=flat)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frealwhyjay&count_bg=%233D93ED&title_bg=%23565656&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
