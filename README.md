@@ -26,7 +26,8 @@
 
 
 ## ✨ Work Experience
-- **Pairy** Backend Developer `(2021.12 ~ NOW)`
+- **Adena Software** Payments 개발팀 Backend Developer `(2024.12 ~ NOW)`
+- **Pairy** Backend Developer `(2021.12 ~ 2024.10)`
 
 
 ## 🚀 Activity
